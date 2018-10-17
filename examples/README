@@ -1,0 +1,10 @@
+tf and tf2 dummy macros
+tf3 good example
+tf4 evolution of tf3 including feature cross exercise and FtrlOptimizer instead of GradientDescentOptimizer
+tf5 linear classification problem
+tf6 reguralization type L1 
+tf7 dNN example 
+tf8 linear vs log feature scaling 
+tf9 MNIST training data 
+tf10 keras and words  
+tf11 cat classification
